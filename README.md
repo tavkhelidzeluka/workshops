@@ -3,7 +3,7 @@
 <details>
     <summary>დავალებები</summary>
 
-[დავალება 1](https://forms.gle/GF8Z63eRmKc2QfUe8)
+- [დავალება 1](https://forms.gle/GF8Z63eRmKc2QfUe8)
 
 </details>
 
