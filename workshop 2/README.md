@@ -1,6 +1,7 @@
 # ლექციის აღწერა
+<details>
+    <summary>განვლილი მასალა</summary>
 
-### წინა ლექცა:
 *I/O (Input/Output)*
 ```python
 # ტერმინალში (CLI, CMD, Console) გამოტანა:
@@ -8,6 +9,19 @@ print("Hello World!")
 
 # ტერმინალიდან ინფორმაციის მიღება
 input("Enter any value: ")
+```
+
+*Variables*
+```python
+# მინიჭების ოპერატორი (=)
+"""
+    იმისათვის, რომ ცვლადი შევქმნათ გვჭირდება მინიჭების
+    ოპერატორი =
+
+    ცვლადის_სახელი: მონაცემთა ტიპი = მნიშვნელობა
+"""
+my_var: int = 4
+
 ```
 
 *მონაცემთა ტიპები*
@@ -203,3 +217,6 @@ if variable > 0:
         print("Am I correctly possitioned?")
 ```
 
+</details>
+
+## 
