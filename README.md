@@ -10,8 +10,8 @@
 <details>
     <summary>მასალები</summary>
 
-[Workshop 1](docs/WORKSHOP_1.md)
-[Workshop 2 (IN PROGRESS)](docs/WORKSHOP_2.md)
+- [Workshop 1](docs/WORKSHOP_1.md)
+- [Workshop 2 (IN PROGRESS)](docs/WORKSHOP_2.md)
 
 </details>
 
