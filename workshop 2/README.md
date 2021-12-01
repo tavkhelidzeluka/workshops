@@ -106,6 +106,29 @@ my_bool: bool = False
 my_float: float = 3.14
 ```
 
+*Type Casting (ტიპების შეცვლა)*
+```python
+"""
+    მონაცემთა ერთი ტიპიდან მეორეში გადასვლას
+    type casting -ი ეწოდება (გადაქასთვა)
+"""
+
+what_character_is_this = 65
+print(chr(what_character_is_this)) # პითონში char - სტრინგია
+# უბრალოდ chr ფუნქციას გადაყავს int-ი ASCII-ში
+
+name: str = "John"
+last_name: str = "Doe"
+age: int = 54
+
+print(name + last_name + str(age))
+print(name, last_name, age) # აქ გადაქასთვა ხდება ჩვენგან დამალულად
+
+"""
+    რა მოხდება მთელი რიცხვი, რომ bool -ში გადავქასთო?
+"""
+```
+
 
 *Conditional Statements (if/else)*
 ```python
