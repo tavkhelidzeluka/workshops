@@ -5,6 +5,7 @@
 
 - [დავალება 1](https://forms.gle/GF8Z63eRmKc2QfUe8)
 - [დავალება 2.1](https://forms.gle/CFSBXGK4DKFbPENj6)
+- [დავალება 2.2](https://forms.gle/yyb9zzhBrZv2U3Mi9)
 
 </details>
 
