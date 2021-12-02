@@ -4,6 +4,7 @@
     <summary>დავალებები</summary>
 
 - [დავალება 1](https://forms.gle/GF8Z63eRmKc2QfUe8)
+- [დავალება 2.1](https://forms.gle/CFSBXGK4DKFbPENj6)
 
 </details>
 
