@@ -1,5 +1,5 @@
 # Functions
-
+[დეტალურად](https://www.w3schools.com/python/python_functions.asp)
 
 ### რა არის ფუნქცია?
 
