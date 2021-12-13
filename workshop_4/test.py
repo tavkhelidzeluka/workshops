@@ -7,12 +7,12 @@
 import random
 
 
-print(random.randint(0, 10))
-print(random.sample([1, 2, 3, 4, 5], 4))
-a = [1, 2, 3, 4, 5]
-random.shuffle(a)
-print(a)
-print(random.choice([1, 2, 4, 5, 5, 3]))
+# print(random.randint(0, 10))
+# print(random.sample([1, 2, 3, 4, 5], 4))
+# a = [1, 2, 3, 4, 5]
+# random.shuffle(a)
+# print(a)
+# print(random.choice([1, 2, 4, 5, 5, 3]))
 
 """
 70
@@ -24,10 +24,16 @@ print(random.choice([1, 2, 4, 5, 5, 3]))
 70 # gamoicani
 
 """
-import time
+# import time
 
-a = []
-for i in range(10000000000):
-    a.append(i)
+# a = []
+# for i in range(10000000000):
+#     a.append(i)
 
-time.sleep(20)
+# time.sleep(20)  
+
+
+import sys
+
+print(sys.getsizeof('22222222222222221312421964791234716234981237834129346'))
+print(sys.getsizeof(22222222222222221312421964791234716234981237834129346))
