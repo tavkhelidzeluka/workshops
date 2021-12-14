@@ -12,7 +12,9 @@
 
 - [დავალება 4](https://forms.gle/KTE7a5H5Azk98F5p6)
 - [დავალება 5.1](https://pastebin.com/F4qpp0eE)
-
+- [დავალება 5.2](https://pastebin.com/v1AyEdc3)
+    
+ 
 </details>
 
 <details>
