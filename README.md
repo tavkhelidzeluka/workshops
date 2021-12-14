@@ -10,6 +10,9 @@
 
 - [დავალება 3](https://forms.office.com/r/WYYLzU9sD2)
 
+- [დავალება 4](https://forms.gle/KTE7a5H5Azk98F5p6)
+
+
 </details>
 
 <details>
