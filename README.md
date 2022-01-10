@@ -26,6 +26,29 @@
 
 </details>
 
+<details>
+    <summary>რა უნდა ვიცოდეთ?</summary>
+
+# MUST
+1. MVT
+2. GET/POST
+2. MODELS
+3. views (Function/Class)
+4. templates
+5. static files
+6. media files
+7. forms
+8. admin
+9. auth
+
+
+# Next Steps
+10. hosting
+11. dns/domain
+12. nginx
+13. SSL
+</details>
+
 
 
 # Project requirements
