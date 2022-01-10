@@ -42,13 +42,14 @@
 9. auth
 
 
-# Advanced topics
-- prefetch_related, select_related (Advanced queryset API)
-- DRF (django rest framework)
+## Advanced topics
 - hosting
 - dns/domain
 - nginx
 - SSL
+## Next steps
+- prefetch_related, select_related (Advanced queryset API)
+- DRF (django rest framework)
 
 </details>
 
