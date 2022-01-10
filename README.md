@@ -30,6 +30,8 @@
     <summary>რა უნდა ვიცოდეთ?</summary>
 
 # MUST
+	
+### Django
 1. MVT
 2. GET/POST methods
 2. MODELS (OTM (FK), MTM, Queryset API)
@@ -40,6 +42,10 @@
 7. forms (ModelForm, Form)
 8. admin (TabularInline, etc.)
 9. auth
+	
+### Tools
+1. Git
+2. **GitHub** / GitLab / BitBucket
 
 
 ## Advanced topics
