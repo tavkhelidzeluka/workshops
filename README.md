@@ -31,14 +31,14 @@
 
 # MUST
 1. MVT
-2. GET/POST
-2. MODELS
-3. views (Function/Class)
+2. GET/POST methods
+2. MODELS (OTM (FK), MTM, Queryset API)
+3. views (Function/Class) (CreateView, UpdateView, etc.)
 4. templates
 5. static files
 6. media files
-7. forms
-8. admin
+7. forms (ModelForm, Form)
+8. admin (TabularInline, etc.)
 9. auth
 
 
