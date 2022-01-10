@@ -44,7 +44,7 @@
 9. auth
 	
 ### Tools
-1. Git
+1. Git (clone, commit, push, pull, checkout)
 2. **GitHub** / GitLab / BitBucket
 
 
