@@ -42,11 +42,14 @@
 9. auth
 
 
-# Next Steps
-10. hosting
-11. dns/domain
-12. nginx
-13. SSL
+# Advanced topics
+- prefetch_related, select_related (Advanced queryset API)
+- DRF (django rest framework)
+- hosting
+- dns/domain
+- nginx
+- SSL
+
 </details>
 
 
